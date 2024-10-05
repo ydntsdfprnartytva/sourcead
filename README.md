@@ -56,3 +56,17 @@ ConfigSection:CreateKeybind("Aimbot Bind", Enum.KeyCode.Unknown, false, true, fu
    print("Aimbot Active:", boolean)
 end)
 ```
+## Credits
+```lua
+sec4:CreateButton("w3ter: Owner, Developer", function()
+    print("Owner, Developer")    
+end)
+
+sec4:CreateButton("N3tt: Admin, Developer", function()
+    print("Admin, Developer")    
+end)
+
+sec4:CreateButton("Discord Server Link", function()
+    setclipboard("https://discord.gg/XE8XkVf2")  
+end)
+```
