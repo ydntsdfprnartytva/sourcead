@@ -1,5 +1,5 @@
 ## Create Window
-```
+```lua
 local yonathUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/ydntsdfprnartytva/sourcead/refs/heads/main/source"))()
 local yonath = yonathUI:CreateWindow("Yonath.cc", "Football Fushion 2", true)
 ```
